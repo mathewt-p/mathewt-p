@@ -1,4 +1,5 @@
-###  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+### Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
 
 # 🛠 Tech Stack
 
@@ -24,3 +25,8 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=mathewt-p&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 <div align="center">
 
+# Social
+
+[![Linkedin Badge](https://img.shields.io/badge/-Mathewt_p-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathewt-p/)](https://www.linkedin.com/in/mathewt-p/)
+[![Codewars_Badge](https://img.shields.io/badge/-Mathewt_p-B1361E?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/mathewt-p)
+[![Discord_Badge](https://img.shields.io/badge/-Mathewt_p-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/Mathewt-p#7167)
