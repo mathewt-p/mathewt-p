@@ -27,6 +27,6 @@
 
 # Social
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mathewt_p-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathewt-p/)](https://www.linkedin.com/in/mathewt-p/)
-[![Codewars_Badge](https://img.shields.io/badge/-Mathewt_p-B1361E?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/mathewt-p)
-[![Discord_Badge](https://img.shields.io/badge/-Mathewt_p-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/Mathewt-p#7167)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathewt-p/)](https://www.linkedin.com/in/mathewt-p/)
+[![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/mathewt-p)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/Mathewt-p#7167)
