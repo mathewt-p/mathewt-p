@@ -19,7 +19,7 @@
 
 <p align="center">
 <!-- <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewt-p&theme=onedark&langs_count=8"> -->
-<img height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mathewt-p&theme=onedark&count_private=true&show_icons=true">
+<!-- <img height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mathewt-p&theme=onedark&count_private=true&show_icons=true"> -->
 </p>
 
 <div align="center">
