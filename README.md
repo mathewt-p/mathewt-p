@@ -1,31 +1,106 @@
-### Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-
-
-# 🛠 Tech Stack
-
-- 🔭 back-end： ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)  ![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)  ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flate&logo=codeIgniter&logoColor=white)
-
-- 👯 front-end：![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)  ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)  ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
-
-- :hammer_and_wrench: use-tool：![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![CicleCI](https://img.shields.io/badge/circleci-343434?style=flat&logo=circleci&logoColor=white) ![Jira](	https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
-
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)  ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)  ![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-circle&logo=ubuntu&logoColor=white) 
-
-- 💻 db：![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-circle&logo=postgresql&logoColor=white)  ![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-circle&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
-
-- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python) 
-
-
-
-<p align="center">
-<!-- <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewt-p&theme=onedark&langs_count=8"> -->
-<!-- <img height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mathewt-p&theme=onedark&count_private=true&show_icons=true"> -->
-</p>
+```
+ __  __       _   _                    _____ ____
+|  \/  | __ _| |_| |__   _____      _|_   _|  _ \
+| |\/| |/ _` | __| '_ \ / _ \ \ /\ / / | | | |_) |
+| |  | | (_| | |_| | | |  __/\ V  V /  | | |  __/
+|_|  |_|\__,_|\__|_| |_|\___| \_/\_/   |_| |_|
+```
 
 <div align="center">
 
-# Social
+**`Software Craftsman | Ruby on Rails Developer | Open Source Enthusiast`**
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathewt-p/)](https://www.linkedin.com/in/mathewt-p/)
-[![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/mathewt-p)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/Mathewt-p#7167)
+[![Linkedin](https://img.shields.io/badge/-mathewt--p-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewt-p/)
+[![Codewars](https://img.shields.io/badge/-mathewt--p-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/mathewt-p)
+[![Discord](https://img.shields.io/badge/-Mathewt--p%237167-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/Mathewt-p#7167)
+
+</div>
+
+---
+
+### `$ cat about.txt`
+
+```ruby
+class Developer
+  def initialize
+    @name     = "Mathew Thomas Perengattu"
+    @role     = "RoR Software Craftsman"
+    @company  = "Betacraft"
+    @location = "India"
+  end
+
+  def current_stack
+    {
+      backend:   ["Ruby on Rails", "Ruby", "PostgreSQL", "Redis", "Sidekiq"],
+      frontend:  ["React", "JavaScript", "HTML5", "CSS3"],
+      devops:    ["Docker", "AWS", "Heroku", "CircleCI", "Git"],
+      exploring: ["Python", "Go"]
+    }
+  end
+end
+```
+
+---
+
+### `$ brew list --stack`
+
+**Backend** &nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Sidekiq](https://img.shields.io/badge/Sidekiq-B1003E?style=flat-square&logo=sidekiq&logoColor=white)
+
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**DevOps & Tools** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Databases** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+
+**Learning** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+---
+
+### `$ git log --oneline --graph`
+
+```
+* 2022-present  RoR Software Craftsman @ Betacraft
+* 2020-2022     RoR Software Developer @ Pukka Codes
+* 2019          Software Developer Intern @ Invis Multimedia
+* 2015-2020     BTech Computer Science
+```
+
+---
+
+<div >
+
+```
+ _____________________________
+< Open to interesting projects >
+ -----------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+</div>
